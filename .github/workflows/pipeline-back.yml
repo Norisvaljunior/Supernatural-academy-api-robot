@@ -5,7 +5,7 @@ on: push
 jobs:
  
   test:
-    name: Users-New
+    name: Company-New
     runs-on: windows-latest
  
     steps:
@@ -30,11 +30,11 @@ jobs:
       - name: rodando os testes
         # run: echo Executando os testes de Web do Robot
         run: |
-          robot -d logs /tests
+          robot -d results /tests
          
       - name: Salvando os resultados dos testes
         uses: actions/upload-artifact@v4
         with:
           if: always()
           name: resultado-testes
-          path: ./logs
+          path: ./results
