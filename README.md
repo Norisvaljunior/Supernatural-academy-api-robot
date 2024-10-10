@@ -1,7 +1,7 @@
 # Projeto de Automação Backend Qa Coders Academy T12
 
 Introdução <br/>
-Projeto desenvolvido pela equipe Supernatural como parte do treinamento oferecido pela Qa.Coders Academy, com o objetivo de aprimorar as habilidades práticas em automação de testes de API, com Robot Framework. Este README fornece informações sobre as tecnologias utilizadas, como instalá-las, como configurar o ambiente e como executar os testes.
+Projeto desenvolvido pela Squad Supernatural como parte do treinamento oferecido pela Qa.Coders Academy, com o objetivo de aprimorar as habilidades práticas em automação de testes de API, com Robot Framework. Este README fornece informações sobre as tecnologias utilizadas, como instalá-las, como configurar o ambiente e como executar os testes.
 Para executar os testes, siga as instruções abaixo : <br>
 Configuração
 Clone o repositório para o seu ambiente local:
